@@ -1,3 +1,4 @@
+#Drink Water Notification Created By Abhimanyu Sharma A.K.A N1nja0p
 import time 
 from plyer import notification #pip install plyer
 if __name__ == "__main__":
